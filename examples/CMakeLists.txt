@@ -3,7 +3,7 @@
 # the radio KPIs measured off the mmwave PHY trace.
 set(_rrc_real_libs
   ${libntn-rrc}
-  ${libntn-traffic}
+  ${libtraffic}
   ${libntn-cho}
   ${libntn-constellation}
   ${libcore}
